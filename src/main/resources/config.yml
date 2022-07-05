@@ -1,0 +1,37 @@
+roles:
+  master:
+    name: '&4Diretor'
+    prefix: '&4&l[Diretor]&4 '
+    permission: 'role.diretor'
+  admin:
+    name: '&cAdmin'
+    prefix: '&c&cl[Admin]&c '
+    permission: 'role.admin'
+  moderador:
+    name: '&2Moderador'
+    prefix: '&2&l[Mod]&2 '
+    permission: 'role.moderador'
+  ajudante:
+    name: '&eAjudante'
+    prefix: '&e&l[Ajd]&e '
+    permission: 'role.ajudante'
+  youtuber:
+    name: '&bMídia'
+    prefix: '&b&l[Mídia]&b '
+    permission: 'role.midia'
+  neon:
+    name: '&5NEON'
+    prefix: '&5&l[NEON]&5 '
+    permission: 'role.neon'
+  dark:
+    name: '&1DARK'
+    prefix: '&1&l[DARK]&1 '
+    permission: 'role.dark'
+  light:
+    name: '&aLIGHT'
+    prefix: '&a&l[LIGHT]&a '
+    permission: 'role.light'
+  membro:
+    name: '&7Membro'
+    prefix: '&7&l[Membro]&7 '
+    permission: ''

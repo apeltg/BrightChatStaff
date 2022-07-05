@@ -1,0 +1,9 @@
+com\github\ojvzinn\chatstaff\bungeecord\commands\Commands.class
+com\github\ojvzinn\chatstaff\utils\StringUtils.class
+com\github\ojvzinn\chatstaff\roles\Role.class
+com\github\ojvzinn\chatstaff\commands\Commands.class
+com\github\ojvzinn\chatstaff\bungeecord\Bungee.class
+com\github\ojvzinn\chatstaff\bungeecord\roles\Role.class
+com\github\ojvzinn\chatstaff\commands\ChatStaffCommand.class
+com\github\ojvzinn\chatstaff\bungeecord\commands\ChatStaffCommand.class
+com\github\ojvzinn\chatstaff\Main.class
